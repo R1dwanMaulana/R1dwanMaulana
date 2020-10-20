@@ -1,6 +1,5 @@
 ### Hi there 👋
-## My Hobby is badminton 🏸 and cycling 🚴🏻‍♂️
-## Love cat 🐱 and fish 🐠 animals
+#### My Hobby is badminton 🏸 and cycling 🚴🏻‍♂️
 ## Ridwan Maulana
 
 I'm a Web Developer | JavaScript Enthusiast and I love OSS.
