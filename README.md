@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+my favorite animal is cat 🐱
 ## Ridwan Maulana
 
 I'm a Web Developer | JavaScript Enthusiast and I love OSS.
