@@ -8,5 +8,5 @@ now studying in college, majoring in Electrical Engineering, at Unisma, Malang.
 
 ## Github Performance Overall
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R1dwanMaulana&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1dwanMaulana&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R1dwanMaulana&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1dwanMaulana&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
