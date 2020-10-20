@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Ridwan Maulana
+
 I'm Ridwan Maulana, as a Web Developer | JavaScript Enthusiast and I love OSS.
 now studying in college, majoring in Electrical Engineering, at Unisma, Malang.
 
