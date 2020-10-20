@@ -1,6 +1,7 @@
 ### Hi there 👋
-#### My Hobby is badminton 🏸 and cycling 🚴🏻‍♂️
+
 ## Ridwan Maulana
+#### My Hobby is badminton 🏸 and cycling 🚴🏻‍♂️
 
 I'm a Web Developer | JavaScript Enthusiast and I love OSS.
 now studying in college, majoring in Electrical Engineering, at Unisma, Malang.
