@@ -1,5 +1,6 @@
 ### Hi there 👋
-my favorite animal is cat 🐱
+## My Hobby is badminton 🏸 and cycling 🚴🏻‍♂️
+## My Animals is cat 🐱 and fish 🐠
 ## Ridwan Maulana
 
 I'm a Web Developer | JavaScript Enthusiast and I love OSS.
