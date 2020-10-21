@@ -8,5 +8,12 @@ now studying in college, majoring in Electrical Engineering, at Unisma, Malang.
 
 ## Github Performance Overall
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R1dwanMaulana&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1dwanMaulana&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R1dwanMaulana&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1dwanMaulana&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Repo Pinned
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=information-football-PWA&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=niki-store-backend&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=IT-unisma&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=niki-store&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=rest-api&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=learn-TS&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
