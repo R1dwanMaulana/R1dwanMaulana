@@ -17,3 +17,4 @@ now studying in college, majoring in Electrical Engineering, at Unisma, Malang.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=niki-store&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=rest-api&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=learn-TS&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=R1dwanMaulana&repo=pulse-management-application&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
