@@ -1,9 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Ridwan Maulana.S
-#### My Hobby is badminton 🏸 and cycling 🚴🏻‍♂️
+## Ridwan Maulana
 
-I'm a Web Developer | JavaScript Enthusiast and love OSS.
+I'm a Frontend Developer | JavaScript Enthusiast and love OSS.
 now studying in college, majoring in Electrical Engineering, at Unisma, Malang.
 
 <a href="https://twitter.com/ridvisible" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
