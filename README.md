@@ -12,7 +12,7 @@ I am an Electrical Engineering, concentration in Informatics Engineering student
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1dwanMaulana&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=R1dwanMaulana&theme=onedark&row=3&column=3)](https://github.com/R1dwanMaulana/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=R1dwanMaulana&theme=onedark&row=3&column=4&no-bg=true)](https://github.com/R1dwanMaulana/github-profile-trophy)
 
 
 
