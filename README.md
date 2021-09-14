@@ -8,10 +8,12 @@ I am an Electrical Engineering, concentration in Informatics Engineering student
 <a href="https://www.linkedin.com/in/ridwanms/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## Github Performance Overall
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R1dwanMaulana&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R1dwanMaulana&show_icons=true&theme=prussian)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=R1dwanMaulana&theme=onedark&row=3&column=4&no-bg=true)](https://github.com/R1dwanMaulana/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=R1dwanMaulana&theme=onedark&row=3&column=4&no-bg=true&no-frame=true)](https://github.com/R1dwanMaulana/github-profile-trophy)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=R1dwanMaulana&theme=dark" alt="ridwanmaulana" /></p>
 
 
 
